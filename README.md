@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pedromarting3@gmail.com**
 
-- ⚡ Fun fact **I´m really interested in drones and AI**
+- ⚡ Fun fact **I´m really interested in data science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
